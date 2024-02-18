@@ -1,0 +1,114 @@
+{
+    "apim-request-id": "ee9cfb87-2494-4165-af09-452dd49b5fe5",
+    "content-length": "1351",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "denseCaptionsResult": {
+      "values": [
+        {
+          "text": "a room with shelves full of toys and a chandelier",
+          "confidence": 0.7344967722892761,
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "w": 769,
+            "h": 915
+          }
+        },
+        {
+          "text": "a wicker chair with a pillow",
+          "confidence": 0.8183978796005249,
+          "boundingBox": {
+            "x": 140,
+            "y": 421,
+            "w": 133,
+            "h": 186
+          }
+        },
+        {
+          "text": "a stuffed bear with a toy on its head",
+          "confidence": 0.6613286137580872,
+          "boundingBox": {
+            "x": 461,
+            "y": 664,
+            "w": 257,
+            "h": 240
+          }
+        },
+        {
+          "text": "a chandelier with crystal beads from the ceiling",
+          "confidence": 0.7501455545425415,
+          "boundingBox": {
+            "x": 78,
+            "y": 0,
+            "w": 280,
+            "h": 196
+          }
+        },
+        {
+          "text": "a green cart with three tiers",
+          "confidence": 0.686423659324646,
+          "boundingBox": {
+            "x": 37,
+            "y": 419,
+            "w": 111,
+            "h": 194
+          }
+        },
+        {
+          "text": "a pillow with a cartoon design",
+          "confidence": 0.6423485279083252,
+          "boundingBox": {
+            "x": 165,
+            "y": 437,
+            "w": 83,
+            "h": 70
+          }
+        },
+        {
+          "text": "a basket and plant on the floor",
+          "confidence": 0.6216422319412231,
+          "boundingBox": {
+            "x": 12,
+            "y": 602,
+            "w": 258,
+            "h": 306
+          }
+        },
+        {
+          "text": "a air conditioner on a wall",
+          "confidence": 0.7368245124816895,
+          "boundingBox": {
+            "x": 330,
+            "y": 42,
+            "w": 187,
+            "h": 111
+          }
+        },
+        {
+          "text": "a heart shaped object with a blurry background",
+          "confidence": 0.6532627940177917,
+          "boundingBox": {
+            "x": 542,
+            "y": 265,
+            "w": 51,
+            "h": 54
+          }
+        },
+        {
+          "text": "a stack of red boxes",
+          "confidence": 0.8607223033905029,
+          "boundingBox": {
+            "x": 567,
+            "y": 67,
+            "w": 142,
+            "h": 141
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "width": 769,
+      "height": 915
+    }
+  }
