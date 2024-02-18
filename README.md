@@ -16,7 +16,7 @@ Após carregar a imagem, os resultados são retornados pelo Azure Vision Studio.
 
 ## Exemplos de Uso
 
-No diretório output, você encontrará os resultados obtidos. E no diretório input, encontra-se as imagens usadas nesse experimento bem como os arquivos .json. 
+No diretório output, você encontrará os resultados obtidos. E no diretório input, encontra-se as imagens usadas nesse experimento. 
 
 ## Contribuições
 
