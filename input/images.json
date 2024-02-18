@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "4573b9b7-6f54-4530-897a-118bba741666",
+  "content-length": "1321",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a red and black moped with a can on it",
+        "confidence": 0.7152535319328308,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1000,
+          "h": 1777
+        }
+      },
+      {
+        "text": "a red scooter with a can of beer on the back",
+        "confidence": 0.7965652346611023,
+        "boundingBox": {
+          "x": 47,
+          "y": 677,
+          "w": 577,
+          "h": 534
+        }
+      },
+      {
+        "text": "a yellow sign with black text",
+        "confidence": 0.7922028303146362,
+        "boundingBox": {
+          "x": 385,
+          "y": 1353,
+          "w": 226,
+          "h": 225
+        }
+      },
+      {
+        "text": "a close-up of a wheel",
+        "confidence": 0.8358301520347595,
+        "boundingBox": {
+          "x": 441,
+          "y": 1010,
+          "w": 190,
+          "h": 200
+        }
+      },
+      {
+        "text": "a can of beer with sunglasses",
+        "confidence": 0.7967292070388794,
+        "boundingBox": {
+          "x": 130,
+          "y": 399,
+          "w": 226,
+          "h": 470
+        }
+      },
+      {
+        "text": "a red box with yellow bottles on it",
+        "confidence": 0.6906527876853943,
+        "boundingBox": {
+          "x": 8,
+          "y": 681,
+          "w": 165,
+          "h": 165
+        }
+      },
+      {
+        "text": "a black phone in a circle",
+        "confidence": 0.6783396601676941,
+        "boundingBox": {
+          "x": 521,
+          "y": 820,
+          "w": 65,
+          "h": 69
+        }
+      },
+      {
+        "text": "a close up of a headphones",
+        "confidence": 0.7644521594047546,
+        "boundingBox": {
+          "x": 61,
+          "y": 1024,
+          "w": 78,
+          "h": 55
+        }
+      },
+      {
+        "text": "a red scooter with a can on it",
+        "confidence": 0.7430726885795593,
+        "boundingBox": {
+          "x": 0,
+          "y": 368,
+          "w": 982,
+          "h": 1369
+        }
+      },
+      {
+        "text": "a can of soda with a helmet on it",
+        "confidence": 0.732516348361969,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 979,
+          "h": 663
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1000,
+    "height": 1777
+  }
+}
