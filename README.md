@@ -24,6 +24,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
+Este projeto está licenciado sob a Licença [MIT](./LICENCE). Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
 
 Espero que essa documentação e os resultados forneçam uma introdução útil ao uso do Azure Vision Studio para detectar atributos em imagens. 
